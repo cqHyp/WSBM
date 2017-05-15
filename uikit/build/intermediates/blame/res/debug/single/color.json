@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\debug\\color\\color_green_text_view_selector.xml",
+        "source": "D:\\Android\\ss-master\\uikit\\res\\color\\color_green_text_view_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\Poldi\\.android\\build-cache\\818731868df4f233ad6ba7d79d2900003f1ddc68\\output\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\debug\\color\\color_picker_preview_selector.xml",
+        "source": "D:\\Android\\ss-master\\uikit\\res\\color\\color_picker_preview_selector.xml"
+    }
+]

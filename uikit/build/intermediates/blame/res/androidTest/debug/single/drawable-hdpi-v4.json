@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_moon_page_unselected.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_moon_page_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_admin_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_admin_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_emotion.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_emotion.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_plus_location_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_location_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_avatar_group.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_avatar_group.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ptr_circle_loading.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ptr_circle_loading.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_video_play_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_play_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_icon_edit_delete.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_edit_delete.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_create_btn.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_create_btn.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_icon_reddot.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_reddot.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_preview_unselected.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_dialog_toast_bg.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_dialog_toast_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_voice_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_voice_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_ic_trans_fail.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_trans_fail.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_keyboard.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_member_add_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_preview_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_new_message_notify.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_new_message_notify.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_slide_toggle_on.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle_on.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_moon_page_selected.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_moon_page_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_cameras.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_cameras.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_slide_toggle.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_icon_download_resume.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_download_resume.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_g_unread_badge.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_unread_badge.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_member_add_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_add_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_plus.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_plus.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_bg_message_tip.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_bg_message_tip.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_arrow_right.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_plus_video_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_video_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_default_img.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_default_img.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_default_img_failed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_default_img_failed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\pull_refresh_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\pull_refresh_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_emoji_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_owner_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_owner_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_image_download_failed.jpg",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_image_download_failed.jpg"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_slide_toggle_off.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle_off.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_cameras_hover.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_cameras_hover.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_preview_disable.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_disable.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_loading_small_white.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_loading_small_white.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_image_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_image_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_red_round_button_pressed.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_red_round_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_video_capture_start_btn.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_capture_start_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_image_default.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_image_default.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_member_delete_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_delete_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_orignal_checked.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_orignal_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_music_icon_play.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_music_icon_play.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_image_selected.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_image_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_grey_delete_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_grey_delete_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_unsupport_mime_type.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_unsupport_mime_type.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_icon_download_pause.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_download_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_orignal_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_orignal_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_picker_preview_normal.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_red_round_button.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_red_round_button.9.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_ic_failed.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_failed.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_emoji_del.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_del.png"
+    },
+    {
+        "merged": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png",
+        "source": "D:\\Android\\ss-master\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png"
+    }
+]
